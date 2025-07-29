@@ -13,10 +13,7 @@ A simple web project to check the strength of a password using HTML and JavaScri
 - HTML5
 - JavaScript 
 
-## 🌐 Live Demo
 
-👉 [Click to Try the App](https://thennagavendhanG.github.io/password-checker/)  
-(This link will work after you upload and enable GitHub Pages)
 
 
 
